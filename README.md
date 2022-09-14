@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Shawn9-v6/Shawn9-v6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hello
+## I am Sean Mumm
+### I know the following languages:
+- !(python)[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png]
+- !(kotlin)[https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png]
+- !(C#)[https://images.saymedia-content.com/.image/t_share/MTc0NDczMTM4OTg0NDYxOTU4/a-brief-introduction-to-c.png]
+- !(HTML)[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png]
+- !(JS)[https://qph.fs.quoracdn.net/main-qimg-0e4fdce8ac22e09688c580e5bc4dcd7d]
+- !(NodeJS)[https://www.bairesdev.com/wp-content/uploads/2019/04/Node-JS.png]
+- !(Batch)[https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1200px-Windows_logo_-_2012_derivative.svg.png]
+- !(AutoHotKey)[https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Autokey-logo.svg/1200px-Autokey-logo.svg.png]
