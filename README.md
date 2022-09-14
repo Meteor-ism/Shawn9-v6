@@ -1,7 +1,7 @@
 # Hello
 ## I am Sean Mumm
 ### I know the following languages:
-- !(python)[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png]
+- !(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)[Python]
 - !(kotlin)[https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png]
 - !(C#)[https://images.saymedia-content.com/.image/t_share/MTc0NDczMTM4OTg0NDYxOTU4/a-brief-introduction-to-c.png]
 - !(HTML)[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png]
